@@ -1,0 +1,4 @@
+super_secret_private.csv
+*.csv
+results/*secret*.csv
+*.Rproj
